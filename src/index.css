@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+  .btn {
+    @apply px-6 py-2.5 rounded-md text-lg font-semibold  bg-yellow text-gray active:bg-dark-yellow;
+  }
+  .btn-outline {
+    @apply px-6 py-2.5 rounded-md text-lg font-semibold active:bg-opacity-80 border border-dashed border-[#ffffff3b] bg-light-gray duration-300 ease-in-out active:bg-[#0f1524] text-white;
+  }
+  .head {
+    @apply text-white text-base text-center pt-3 pb-1 font-semibold sm:text-xl md:text-2xl lg:text-3xl;
+  }
+  
+}
