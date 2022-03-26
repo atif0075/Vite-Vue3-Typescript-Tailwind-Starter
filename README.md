@@ -38,6 +38,6 @@ If you prefer to do it manually with the cleaner git history
 
 ```bash
 npx degit atif0075/Vite-Vue3-Typescript-Tailwind-Starter
-cd my-vitesse-app
+cd Vite-Vue3-Typescript-Tailwind-Starter
 yarn
 ```
