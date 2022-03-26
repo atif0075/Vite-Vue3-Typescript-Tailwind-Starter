@@ -30,14 +30,14 @@ Since TypeScript cannot handle type information for `.vue` imports, they are shi
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://xyz/generate).
+[Create a repo from this template on GitHub](https://github.com/atif0075/Vite-Vue3-Typescript-Tailwind-Starter.git/generate).
 
 ### Clone to local
 
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit antfu/vitesse-lite my-vitesse-app
+npx degit atif0075/Vite-Vue3-Typescript-Tailwind-Starter
 cd my-vitesse-app
 yarn
 ```
