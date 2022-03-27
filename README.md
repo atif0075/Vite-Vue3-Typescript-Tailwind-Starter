@@ -30,7 +30,7 @@ Since TypeScript cannot handle type information for `.vue` imports, they are shi
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/atif0075/Vite-Vue3-Typescript-Tailwind-Starter.git/generate).
+[Create a repo from this template on GitHub](https://github.com/atif0075/Vite-Vue3-Typescript-Tailwind-Starter/generate).
 
 ### Clone to local
 
