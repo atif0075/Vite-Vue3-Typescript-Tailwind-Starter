@@ -74,7 +74,7 @@
 </template>
 
 <script lang="ts" setup>
-import { onMounted, ref } from "vue-demi";
+import { onMounted, ref } from "vue";
 import { useStore } from "../store/store";
 let Name = ref("");
 let show = ref(false);
